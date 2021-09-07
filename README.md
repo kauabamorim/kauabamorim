@@ -18,6 +18,7 @@
   <img align="center" alt="Kaua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaua-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="right" alt="Kaua-yoda" src="https://cdn.discordapp.com/attachments/517043679681314819/884157937180880917/aa.png">
+  <img align="center" alt="Kaua-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
 </div>
     
   ##
