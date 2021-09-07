@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã Berman Amorim
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Estudando ReactJs
+- 🌱 Estudando React
 - 📫 Contate-me no email: kauabamorim@outlook.com
 
 <div>
