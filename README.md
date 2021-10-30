@@ -18,6 +18,7 @@
   <img align="center" alt="Kaua-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Kaua-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Kaua-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media4.giphy.com/media/BemKqR9RDK4V2/giphy.gif?cid=ecf05e475csvozyrw1z6t44jdfoyt4j9n1uv91osjguvo4oe&rid=giphy.gif&ct=g"
 </div>
     
   ##
