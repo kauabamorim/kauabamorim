@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Kauã Berman Amorim
 
-- 🔭 FRONT-END
+- 🔭 Full Stack
 - 🌱 Estudando ReactJS
 - 📫 Contate-me no email: kauabamorim@outlook.com
 
