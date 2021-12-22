@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã Berman Amorim
 
 - 🔭 Full Stack
-- 🌱 Estudando FLUTTER
+- 🌱 Estudando Flutter
 - 📫 Contate-me no email: kauabamorim@outlook.com
 
 <div>
