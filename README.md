@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã Berman Amorim
 
 - 🔭 Full Stack
-- 🌱 Estudando ReactJS
+- 🌱 Estou no Entra21 Java 2022
 - 📫 Contate-me no email: kauabamorim@outlook.com
 
 <div>
