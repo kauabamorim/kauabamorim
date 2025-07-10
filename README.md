@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Kauã Berman Amorim
 
 - 🔭 Full Stack
-- 🌱 Bacharelado em Ciência da Computação na FURB, em Blumenau - SC
+- 🌱 Análise e Desenvolvimento de Sistemas na Unisociesc, em Blumenau - SC
 - 📫 Contate-me no email: kauabamorim@outlook.com
 
 <div>
