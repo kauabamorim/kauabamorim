@@ -51,3 +51,12 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kauabamorim&"  />
 </div>
+
+ <div>
+   
+  
+   
+  ![Snake animation](https://github.com/kauabamorim/kauabamorim/blob/output/github-contribution-grid-snake.svg)
+ 
+ </div>  
+ 
